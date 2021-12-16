@@ -56,7 +56,7 @@ export default {
           { title: 'Home', path: '/home', icon: 'mdi-home' },
           { title: 'About', path: '/about', icon: 'mdi-heart' },
           { title: 'Contact', path: '/contact', icon: 'mdi-phone' },
-          { title: 'Sign Out', path: '/signup', icon: 'mdi-logout-variant' },
+          { title: 'Sign In', path: '/signin', icon: 'mdi-login' },
      ]
     }
   }
