@@ -1,12 +1,16 @@
 <template>
-  <v-container>
-      <h1>Hello Conctact</h1>
+  <v-container class="mt-10">
+      <Modal/>
   </v-container>
 </template>
 
 <script>
+import Modal from '../ui/Modal.vue';
 export default {
-
+  components: {
+    Modal
+  },
+  
 }
 </script>
 
